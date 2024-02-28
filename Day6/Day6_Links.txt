@@ -1,0 +1,214 @@
+Day 6 :
+
+a. User stories 
+
+--> Who is using the user stories :
+
+a. PO
+b. Engineering team : Devs/QA/UI
+c. For the actions/tasks to be developed
+
+PRD/BRD + Solution Design/HLD/LLD + Each module --> User stories + Agile - Scrum methodology
+
+==> What is the primary area of focus for writing good user stories? 
+
+a. Focus on the business utility : Look for similar type of apps that has implemented them ==> Creating the user stories + Solution Design [HLD/LLD] + Timeframe
+
+LBS Implementation : Location based services 
+
+[Swiggy/Zomato/Uber/Ola/etc etc] - Map : Latitude + Longitude [LBS]
+
+b. The features should be testable 
+
+Each user story --> Implementation --> Microservices Architecture --> Deploying the services/features [Docker/Kubernetes] --> deployment env --> production phase
+
+
+- Test Plan
+- Test Case
+- Test Tools
+- Test Data
+
+Is the entire test responsbility that of QA? 
+
+==> QA + <Devs>
+
+https://www.browserstack.com/guide/verification-and-validation-in-testing
+
+==> VnV : Verification n Validation
+
+Validation : code base on a day-day basis : Dev --> Test [check if the flow is proper or not] : Positive testing 
+Verification : QA : Overall scope./requirement is met : Workflow + Functional Requirement + Non-functional Requirement
+
+How the UI/UX of the screen would be? 
+How negative testing 
+
+Text Box 1 : dirty data [js/bad code]
+Text Box 2 : long data --> crossing the maxima size of the data [field size : 20 ---------------> actual 100]
+
+Submit_Btn
+
+Agile/SDLC : 
+
+a. For each project : QA --> test plan + per feature basis :: test cases
+
+Execution Strategy	
+
+a. Entry Criteria --> Set-up conditions are OK + Test data is OK + Test Architecture is OK + Test Cases availability is OK
+	
+b. Exit criteria --> Test cases are executed + bugs are identified also the status of the bugs [open/close]	
+
+SDLC
+
+STLC
+
+==> Defect Management : 
+
+What Is Defect Severity And Priority?
+
+
+Availability : Goes for a toss, that's the most critical activity + highest priority bug which needs to be resolved
+
+Entire app is down OR if any of the other individual microservices are down
+
+Bug : Severity + Priority
+
+TEST DATA : 
+
+--> Your feature might fail with an different data
+
+User stories --> everyone should be part of the user story + PRD journey
+
+3-4 hours of catchup with "Coach"
+Internal DXC folks : "Mentors"
+
+On an every day : 8 hours of work
+
+Github check-in : every 4 hours
+
+Peer-review
+
+Peer-review
+Lead-review
+Customer-review
+
+Week 1: 
+
+Common modules : 
+
+Enterprise Apps
+STLC + SDLC
+User stories
+Agile Project Management - Scrum
+
+Track specific: 
+
+QA : Test PLan + Test Strategy + Test cases + Test data
+
+Java : Java concepts + SpringBoot + Microservices Architecture + DB connections
+
+UI/UX : AngularJS/ReactJS + HTML5
+
+Design Pattern in MSA :
+
+a. SRP : Single Responsbility Pattern
+b. CCP : Common Closure Pattern
+c. Decomposition by business capability
+d. Decomposition by Subdomain
+e. API Gateway
+
+==> Heavy weight process vs Light-weight process
+
+Heavy weight process : Waterfall Model
+
+Difference between waterfall model vs agile
+
+What is a problem with the waterfall model? 
+
+Changes in the business requirement || Product --> F1...F5 --> F1 + F2 [will remain] + [F3...F5] --> Dynamic
+
+Requirement : Will be dynamic in nature :: Requirement --> User stories + HLD/LDD + Timeframe : Modify the scope
+
+What will be the release timeline? 
+
+Agile :
+
+a. Sprint : Release schedule : 2 weeks [10-12 working days] || 4 weeks [Modules that are assigned to you --> delivery
+
+Project --> Overall 6 weeks --> 3 sprints
+
+First Sprint : 01/03
+
+b. Scrum meeting : Note of these activities : Online yello stickies OR Notepad
+
+- What was achieved yesterday
+- What will you do today?
+- Any blockers
+
+Are the blockers/dependencies solutions discussed in the Scrum meeting ? NO
+
+Scrum meeting == Daily Standup meeting ? 
+
+Project Team : Dev + UI + QA + Customer + PM
+
+c. What are these activities ? :: Tasks/Activities
+
+d. Backlog 
+
+Need vs Requirement
+
+S1 : 
+
+Need - I should have a phone
+Req - I should have a iPhone
+
+S2 :
+
+Need - I should have food
+Req - I should have a food in a 5-star hotel
+
+S3 : 
+
+Need - Login feature with username and passwd + submit btn
+Req - OTP based validation
+
+What are the types of Backlog :
+
+- Product backlog - Overall list of features that you want to implement BUT is not prioritized
+- Sprint backlog - User stories that need to be completed in a specific time period
+- Release backlog - Features that are to be implememented in a release
+
+==> Retrospective/Retrospective Meeting 
+
+
+What is release cycle? 
+What is sprint cycle ? 
+
+Is release cycle == sprint cycle? 
+
+When should the retrospective happen?
+
+Sprint Plan : 
+
+https://www.youtube.com/watch?v=75I_PWPG0-s
+
+Burn-down chart?
+
+https://www.atlassian.com/software/jira/free : Free account
+
+Create a free JIRA account using the link : Use an alternate Gmail address - This is only for practice
+
+You would need to create another free JIRA account for the project as well
+
+Any questions, any one? 
+
+
+
+
+
+
+
+
+
+
+
+

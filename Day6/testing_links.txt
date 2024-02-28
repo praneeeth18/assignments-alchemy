@@ -1,0 +1,21 @@
+a. Test plan template attached
+
+b. Test Plan Reference link :
+https://www.testrail.com/blog/create-a-test-plan/
+
+c. Test Case Template Attached
+
+d. Test Case Reference Link :
+https://www.softwaretestingmaterial.com/test-case-template-with-explanation/
+
+e. Validation & Verification [VnV] in software testing :
+https://www.browserstack.com/guide/verification-and-validation-in-testing
+
+f. https://www.softwaretestinghelp.com/how-to-set-defect-priority-and-severity-with-defect-triage-process/
+
+Emphasise to the participants : 
+
+- Push everything in Github. That's a measure of work done.
+- Work in progress is fine, keep updating every 3-4 hours in Github
+- Complete all activities covered till 28/02 by 29/02 & should be available in Github.
+- Any questions, do share.
